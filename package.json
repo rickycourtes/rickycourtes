@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/rickycourtes/rickycourtes/issues"
   },
-  "homepage": "https://github.com/rickycourtes/rickycourtes#readme"
+  "homepage": "https://github.com/rickycourtes/rickycourtes#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.38.2"
+  }
 }
