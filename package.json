@@ -1,0 +1,23 @@
+{
+  "name": "rickycourtes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickycourtes/rickycourtes.git"
+  },
+  "keywords": [
+    "ricky",
+    "courtes"
+  ],
+  "author": "Ricky Courtes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickycourtes/rickycourtes/issues"
+  },
+  "homepage": "https://github.com/rickycourtes/rickycourtes#readme"
+}
